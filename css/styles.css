@@ -1,0 +1,176 @@
+body {
+  padding: 0;
+  margin:0;
+  text-align: center;
+ font-family: 'Merriweather', serif;
+
+}
+h1 {
+  font-size: 5.625REM;
+  margin-top: 50PX;
+  margin-bottom: 0;
+  color:  #66BFBF;
+font-family: 'Dancing Script', cursive;
+line-height: 2;
+}
+H2 {
+font-family: 'Dancing Script', cursive;
+font-size: 2REM;
+color: #66BFBF;
+font-weight: normal;
+padding-bottom:10px;
+
+}
+H3 {
+  font-family: 'Dancing Script', cursive;
+  color:  #11999E;
+}
+P {
+  font-family: 'Dancing Script', cursive;
+  line-height: 2;
+}
+
+
+ .TOPCONTAINER  {
+  background-color:#EAF6F6;
+
+ }
+.MIDDLECONTAINER {
+  margin: 100px 0;
+
+}
+.bottom-container {
+background-color: #66BFBF;
+
+padding: 50px 0 20px;
+
+}
+.bottomcloud{
+  position: absolute;
+}
+.topcloud{
+  position: relative;
+  padding: 50px;
+  left: 200px;
+}
+.NOT{
+  color:  #11999E;
+}
+.footer-link {
+  color: #11999E;
+}
+SPAN{
+  font-weight: normal;
+}
+.skill-row{
+  width: 50%;
+margin: 100PX 100PX 100PX;
+text-align:right;
+ line-height: 2;
+ padding-left: 250px;
+
+  }
+
+  .skill-row-2{
+    line-height: 2;
+    padding-right: 250px;
+
+  }
+  .messi{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  .hero{
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+
+  }
+.CODE-SKILL-DESCRIPTION{
+ clear: left;
+
+}
+.ZERO{
+  margin-right: 200pX;
+}
+.NAME-SKILL-DESCRIPTION{
+  clear: left;
+
+
+}
+.king{
+  padding:40px;
+}
+hr{
+border-style: dotted  ;
+ border-bottom: NONE;
+
+ width: 4%;
+margin-top: 100PX;
+margin-bottom: 100PX;
+border-bottom-style: dotted;
+
+ }
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.zing{
+
+}
+.btn {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+font-family: 'Dancing Script', cursive;
+   font-size: 20px;
+   font-weight: 200;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn: hover {
+   border: solid #337FED 1px;
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #2BC4AD);
+   background-image: -moz-linear-gradient(top, #11CDD4, #2BC4AD);
+   background-image: -ms-linear-gradient(top, #11CDD4, #2BC4AD);
+   background-image: -o-linear-gradient(top, #11CDD4, #2BC4AD);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #2BC4AD);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+a{
+  color: #11999E;
+  font-family: 'dancing script', cursive;
+margin: 10px 10px 10px 10px;
+text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.COPYKING{
+  color: #EAF6F6;
+  font-size: 0.75REM;
+  padding: 20PX 0 20PX;
+
+
+}
